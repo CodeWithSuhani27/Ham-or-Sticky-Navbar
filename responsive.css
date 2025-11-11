@@ -1,0 +1,28 @@
+
+@media only screen and (max-width: 1019px) {
+    body {
+      background-color: lightgreen;
+    }
+    
+    .navlist{
+        flex-direction: column;
+    }
+
+    .navbar{
+        flex-direction: column;
+    }
+
+    .rightnav{
+        text-align: center;
+    }
+
+    #search{
+        width:100%;
+    }
+}
+    
+  
+
+
+
+  
